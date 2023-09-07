@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "fuck-app",
+    "slug": "fuck-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "e7e64988-3de3-4e0d-b2e6-42bd25066706"
+      }
+    }
+  },
+  "name": "fuck-app"
+}
